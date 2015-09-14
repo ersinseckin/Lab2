@@ -2,5 +2,3 @@
 tyfduyv
 
 Added duck info
-duck's quack
-
